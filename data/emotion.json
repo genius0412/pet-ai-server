@@ -1,0 +1,46 @@
+[
+    {
+        "text": "hello",
+        "class": { "HAPPY": 1 }
+    },
+    {
+        "text": "hi",
+        "class": { "HAPPY": 1 }
+    },
+    {
+        "text": "sad",
+        "class": { "SAD": 1 }
+    },
+    {
+        "text": "cry",
+        "class": { "SAD": 1 }
+    },
+    {
+        "text": "crying",
+        "class": { "SAD": 1 }
+    },
+    {
+        "text": "bad",
+        "class": { "SAD": 1 }
+    },
+    {
+        "text": "happy",
+        "class": { "HAPPY": 1 }
+    },
+    {
+        "text": "happy day",
+        "class": { "HAPPY": 1 }
+    },
+    {
+        "text": "sleepy",
+        "class": { "SLEEPY": 1 }
+    }, 
+    {
+        "text": "good",
+        "class": { "HAPPY": 1 }
+    },
+    {
+        "text": "yawn",
+        "class": { "SLEEPY": 1 }
+    }
+]
